@@ -1495,6 +1495,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   text-shadow: none;
   icon-shadow: none;
   font-weight: 700;
+  font-size: 180%;
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
 }
 .keyboard-key:focus, .keyboard-key:hover, .keyboard-key:checked {
